@@ -23,15 +23,5 @@ namespace GradeBook.Tests
             Assert.Equal(77.3, result.Low, 1);
             Assert.Equal('B', result.Letter);
         }
-
-        // * Test not verified by course
-        // [Fact]
-        // public void GradeCheck()
-        // {
-        //     var book = new Book("");
-        //     book.AddGrade(105);
-
-        //     Assert.Equal(book.grades[0], "Invalid value");
-        // }
     }
 }
