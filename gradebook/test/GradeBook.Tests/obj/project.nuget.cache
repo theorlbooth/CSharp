@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "L7Cqh0uRxDI4w+ZAQwZ8XkzdZ0P6GcqS2GrEBe9D2Drh+jCORMTsEbFO9eRFWwiKdF2prwfk3OGGPkBE3psfhA==",
+  "dgSpecHash": "A0OzmzBn5Zx0JW8vYWG/fiF7p0xWtcLeXfH9mwRtv6mc7D71yJ+sv7T/OcYHuPRNypBS70K0WSOVT+xLHZNvrw==",
   "success": true,
   "projectFilePath": "/Users/theorlbooth/development/C#/gradebook/test/GradeBook.Tests/GradeBook.Tests.csproj",
   "expectedPackageFiles": [
